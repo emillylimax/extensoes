@@ -1,0 +1,21 @@
+{
+  "name": "futuristic-vscode-theme",
+  "displayName": "futuristic-vscode-theme",
+  "description": "Futuristic VsCode Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Futuristic VsCode Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Futuristic VsCode Theme-color-theme.json"
+      }
+    ]
+  }
+}
